@@ -1,0 +1,64 @@
+.container {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.previewBox {
+    position: absolute;
+    width: 824px;
+    height: 534px;
+    left: 45px;
+    top: 41px;
+
+    background: #C4C4C4;
+}
+.infoBox {
+    position: absolute;
+    width: 506px;
+    height: 302px;
+    left: 889px;
+    top: 41px;
+
+    background: #C4C4C4;
+}
+.buttonBox1 {
+    position: absolute;
+    width: 506px;
+    height: 100px;
+    left: 889px;
+    top: 360px;
+
+    background: #C4C4C4;
+}
+.buttonBox2 {
+    position: absolute;
+    width: 506px;
+    height: 100px;
+    left: 889px;
+    top: 475px;
+
+    background: #C4C4C4;
+}
+.buttonText {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+    /* identical to box height */
+
+    color: #000000;
+}
+.contentBox {
+    position: absolute;
+    width: 1350px;
+    height: 392px;
+    left: 45px;
+    top: 599px;
+
+    background: #C4C4C4;
+}
